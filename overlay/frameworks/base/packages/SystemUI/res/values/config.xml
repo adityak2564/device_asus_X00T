@@ -20,7 +20,7 @@
      for different hardware and product builds. -->
 <resources>
     <!-- Max visible notification icons -->
-    <integer name="config_maxVisibleNotificationIcons">5</integer>
+    <integer name="config_maxVisibleNotificationIcons">6</integer>
     <integer name="config_maxVisibleNotificationIconsWhenDark">6</integer>
 
     <!-- Whether to artificially interpret all signal strengths as
